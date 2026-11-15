@@ -24,4 +24,4 @@ chaoxing-select-student/
 
 本仓库是一份给 AI 助手加载的技能（skill）：把 `SKILL.md` 连同 `scripts/`、`references/` 一起提供给助手，它就能按文档流程操作学习通。脚本基于 Playwright，使用前需按 `references/` 中的说明准备好登录与浏览器环境。
 
-> 作者为职业院校数学教师，更多教学工具见主页：https://github.com/woshidashen804
+> 作者为职业院校数学教师，更多教学工具见主页：https://github.com/shuxuexiaoli
